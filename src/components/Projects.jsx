@@ -9,7 +9,7 @@ function Projects() {
       description:
         "A proof of concept developed to test possible solutions for a customer requirement of upgrading their applications login to use MFA. The end solution used spring interceptors + AWS SNS in order to send a OTP",
       skills: ["AWS", "AWS Cognito", "Javascript"],
-      image: "/mfa-1.svg",
+      image: "/portfolio/mfa-1.svg",
       githubUrl: "https://github.com/cammyyp/MFA-with-AWS-Cognito-Prototype",
     },
   ];
